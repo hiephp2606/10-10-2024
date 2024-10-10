@@ -1,5 +1,3 @@
-# Platform IO: ESP32 LDR
-By Hoàng Hiệp
 
 ## Mục đích : 
 - Nâng cao sự nhanh nhẹn trong các quy trình làm việc với PlatformIO, Git và Github
