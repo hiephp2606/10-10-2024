@@ -1,5 +1,5 @@
 # Platform IO: ESP32 LDR
-By Đào Ngọc Quý
+By Hoàng Hiệp
 
 ## Mục đích : 
 - Nâng cao sự nhanh nhẹn trong các quy trình làm việc với PlatformIO, Git và Github
@@ -19,9 +19,6 @@ By Đào Ngọc Quý
 -  Kết nối chân còn lại của quang trở với nguồn 3.3V.
 -  Kết nối một điện trở từ chân ADC đến GND.
 -  Đảm bảo tất cả các kết nối chắc chắn.
-
-## Hình ảnh đồ thị :
-https://github.com/Daoquy14092003/ESP32_LDR_Test/blob/main/Plot1_LDR_Test.jpg?raw=true
 
 ## Hướng dẫn thêm : Cách chèn ảnh chụp màn hình đồ thị ánh sáng vào tệp README.md
 - Tải ảnh lên GitHub: Mở repo trên Github, nhấn vào nút Add file và chọn Upload files, chọn tệp từ máy tính, nhấn Commit changes sau khi tải ảnh lên.
